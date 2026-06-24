@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0704-binary-search) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nadeemmallick/LeetCodePath/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nadeemmallick/LeetCodePath/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Dynamic Programming
 |  |
 | ------- |
