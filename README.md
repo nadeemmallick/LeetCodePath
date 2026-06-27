@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nadeemmallick/LeetCodePath/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nadeemmallick/LeetCodePath/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
