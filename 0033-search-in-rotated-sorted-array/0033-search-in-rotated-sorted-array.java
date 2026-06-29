@@ -1,25 +1,24 @@
 class Solution {
     // first we find pivot element
-   static  int pivotElement(int[] nums){
+    public static int pivotElement(int[] nums) {
         int n = nums.length;
         int s = 0;
-        int e = n-1;
+        int e = n - 1;
         int ans = -1;
-        while (s <= e){
-            int mid = s + (e-s)/2;
-            if(nums[mid] <= nums[n-1]){
-                e = mid-1;
-            }else
-            {
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
+            if (nums[mid] <= nums[n - 1]) {
+                e = mid - 1;
+            } else {
                 // arr[mid] > arr[n-1]
                 ans = mid;
-                s = mid+1;
+                s = mid + 1;
             }
         }
         return ans;
     }
 
-    static int binary_search(int[] nums, int s, int e, int target) {
+    public static int binary_search(int[] nums, int s, int e, int target) {
         int n = nums.length;
         while (s <= e) {
             int mid = (s + e) / 2;
@@ -38,7 +37,7 @@ class Solution {
     }
 
     public int search(int[] nums, int target) {
-        int pivotIndex = pivotElement(nums);
+        int pivotIndex = pivotElement(nums); // pivot index pass krr dia
         int n = nums.length;
 
         if (pivotIndex == -1) {
@@ -46,6 +45,7 @@ class Solution {
             return ans;
         } else {
 
+            //l1 mtlb left side
             int startArray1 = 0;
             int endArray1 = pivotIndex;
             if (target >= nums[startArray1] && target <= nums[endArray1]) {
@@ -53,7 +53,7 @@ class Solution {
                 return ans;
 
             }
-
+            //l2 means right side
             int startArray2 = pivotIndex + 1;
             int endArray2 = n - 1;
 
