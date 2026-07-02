@@ -3,16 +3,16 @@ class Solution {
        
 
         int n = nums.length;
-        int numzeroIndex = 0;
+        int nonzeroIndex = 0;
 
         for (int i = 0; i < n; i++) {
             if (nums[i] != 0) {
-                nums[numzeroIndex] = nums[i];
-                numzeroIndex++;
+                nums[nonzeroIndex] = nums[i];
+                nonzeroIndex++;
             }
         }
 
-        for (int i = numzeroIndex; i < n; i++) {
+        for (int i = nonzeroIndex; i < n; i++) {
             nums[i] = 0;
         }
         
