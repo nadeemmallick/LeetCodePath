@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/nadeemmallick/LeetCodePath/tree/master/0605-can-place-flowers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nadeemmallick/LeetCodePath/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/nadeemmallick/LeetCodePath/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
