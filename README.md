@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/nadeemmallick/LeetCodePath/tree/master/1768-merge-strings-alternately) |
 ## Greedy
