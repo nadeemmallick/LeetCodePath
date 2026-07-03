@@ -3,7 +3,7 @@ class Solution {
         int ballcount = 1;
         int magniticFieldPosition = 0;
 
-        for (int i = 1; i < position.length; i++) {
+        for (int i = 0; i < position.length; i++) {
             if (position[i] - position[magniticFieldPosition] >= mid) {
                 ballcount++;
                 magniticFieldPosition = i;
