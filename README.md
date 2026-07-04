@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nadeemmallick/LeetCodePath/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nadeemmallick/LeetCodePath/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/nadeemmallick/LeetCodePath/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nadeemmallick/LeetCodePath/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nadeemmallick/LeetCodePath/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nadeemmallick/LeetCodePath/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/nadeemmallick/LeetCodePath/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nadeemmallick/LeetCodePath/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
