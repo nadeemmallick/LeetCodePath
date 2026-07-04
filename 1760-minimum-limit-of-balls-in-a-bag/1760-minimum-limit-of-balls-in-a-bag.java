@@ -1,12 +1,13 @@
 class Solution {
     public int minimumSize(int[] nums, int maxOperations) {
          int start = 1;
-        int end = 0;
-
-        for (int num : nums) {
-            end = Math.max(end, num);
-        }
-
+         int max = -1;
+         for(int i = 0; i<nums.length; i++){
+            if(nums[i] > max){
+                max = nums[i];
+            }
+         }
+        int end = max;
         int ans = end;
 
         while (start <= end) {
@@ -28,9 +29,9 @@ class Solution {
 
         int operations = 0;
 
-        for (int num : nums) {
+        for (int i = 0; i<nums.length; i++) {
 
-            operations += (num - 1) / mid;
+            operations += (nums[i] - 1) / mid;
 
             if (operations > maxOperations) {
                 return false;
