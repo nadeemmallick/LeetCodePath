@@ -16,8 +16,11 @@ class Solution {
                 count = 0;   // used these k flowers
             }
         }
+        if(bouquets >= m){
+            return true;
+        }
 
-        return bouquets >= m;
+        return false;
     }
     public int minDays(int[] bloomDay, int m, int k) {
         int n = bloomDay.length;
