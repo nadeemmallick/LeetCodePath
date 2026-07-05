@@ -6,11 +6,12 @@ class Solution {
             hours = hours + (piles[i]+minSpeed-1)/minSpeed;
             
         }
-        if(hours <= h ){
-            return true;
-        }else{
-            return false;
-        }
+        // if(hours <= h ){
+        //     return true;
+        // }else{
+        //     return false;
+        // }
+        return hours <= h;
     }
     public int minEatingSpeed(int[] piles, int h) {
         int n = piles.length;
