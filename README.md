@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0540-single-element-in-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nadeemmallick/LeetCodePath/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nadeemmallick/LeetCodePath/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0704-binary-search) |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/nadeemmallick/LeetCodePath/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
