@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/nadeemmallick/LeetCodePath/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nadeemmallick/LeetCodePath/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/nadeemmallick/LeetCodePath/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
