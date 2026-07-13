@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/nadeemmallick/LeetCodePath/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
