@@ -13,6 +13,7 @@ class Solution {
         // }
         // int [ ] ans ={};
         // return ans;
+        ////fggfgfg
           HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < nums.length; i++) {
