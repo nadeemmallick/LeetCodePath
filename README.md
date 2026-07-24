@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nadeemmallick/LeetCodePath/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/nadeemmallick/LeetCodePath/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/nadeemmallick/LeetCodePath/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nadeemmallick/LeetCodePath/tree/master/0078-subsets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nadeemmallick/LeetCodePath/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nadeemmallick/LeetCodePath/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nadeemmallick/LeetCodePath/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/nadeemmallick/LeetCodePath/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
