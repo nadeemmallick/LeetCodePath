@@ -20,8 +20,8 @@ class Solution {
     }
 
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> output = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>(); // main list where all the small list store at last
+        List<Integer> output = new ArrayList<>(); // it store the small list of each element in it 
         int index = 0;
 
         getAllSubsequence(nums, ans, output, index);
