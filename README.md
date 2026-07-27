@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nadeemmallick/LeetCodePath/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/nadeemmallick/LeetCodePath/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nadeemmallick/LeetCodePath/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
