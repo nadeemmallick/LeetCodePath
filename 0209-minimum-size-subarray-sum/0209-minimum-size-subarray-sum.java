@@ -5,13 +5,6 @@ class Solution {
         int sum = 0;
         int minLength = Integer.MAX_VALUE;
 
-        // while(r < nums.length){
-        //     sum = sum+arr[r];
-        //     while(sum > target){
-        //         sum -= arr[l];
-        //         l = l+1;
-        //     }
-        // }
         while (right < nums.length) {
 
             sum += nums[right];
