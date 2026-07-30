@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nadeemmallick/LeetCodePath/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nadeemmallick/LeetCodePath/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nadeemmallick/LeetCodePath/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/nadeemmallick/LeetCodePath/tree/master/0443-string-compression) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/nadeemmallick/LeetCodePath/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/nadeemmallick/LeetCodePath/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nadeemmallick/LeetCodePath/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
