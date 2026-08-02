@@ -1,24 +1,32 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
+        int n = nums.length;
         List<Integer> ans = new ArrayList<>();
-         int n = nums.length;
+        HashSet<Integer> set = new HashSet<>();
 
-         for(int index = 0; index <n; index++){
-            int value = Math.abs(nums[index]);
-            int position = value-1;
+        for(int num : nums){
+            set.add(num);
+        }
 
-            if(nums[position]>0){
-                nums[position] = -nums[position];
+        for(int i = 1; i <= n; i++){
+            if(!set.contains(i)){
+                ans.add(i);
             }
-         }
+        }
+        return ans;
 
-         for(int i=0; i<n; i++){
-            if(nums[i]>0){
-            int value_at_this_index = i+1;
-            ans.add(value_at_this_index );
-         }
-         }
-         return ans;
-        
+        // for(int i = 1 ; i<=n; i++){
+        //     boolean flag = false;
+        //     for(int j = 0; j < n ; j++){
+        //         if(nums[j] == i){
+        //             flag = true;
+        //             break;
+        //         }
+        //     }
+        //     if(!flag){
+        //         ans.add(i);
+        //     }
+        // }
+        // return ans;
     }
 }
