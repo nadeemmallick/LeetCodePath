@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/nadeemmallick/LeetCodePath/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nadeemmallick/LeetCodePath/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nadeemmallick/LeetCodePath/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0074-search-a-2d-matrix) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nadeemmallick/LeetCodePath/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
