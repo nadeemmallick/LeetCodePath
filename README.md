@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nadeemmallick/LeetCodePath/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/nadeemmallick/LeetCodePath/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nadeemmallick/LeetCodePath/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nadeemmallick/LeetCodePath/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nadeemmallick/LeetCodePath/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -269,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nadeemmallick/LeetCodePath/tree/master/0037-sudoku-solver) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
