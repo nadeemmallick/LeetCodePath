@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/nadeemmallick/LeetCodePath/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/nadeemmallick/LeetCodePath/tree/master/0643-maximum-average-subarray-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/nadeemmallick/LeetCodePath/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nadeemmallick/LeetCodePath/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
@@ -280,4 +283,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
