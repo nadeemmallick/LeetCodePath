@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nadeemmallick/LeetCodePath/tree/master/0002-add-two-numbers) |
+| [0707-design-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
