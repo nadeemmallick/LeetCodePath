@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nadeemmallick/LeetCodePath/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nadeemmallick/LeetCodePath/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nadeemmallick/LeetCodePath/tree/master/1552-magnetic-force-between-two-balls) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nadeemmallick/LeetCodePath/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/nadeemmallick/LeetCodePath/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1929-concatenation-of-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/nadeemmallick/LeetCodePath/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nadeemmallick/LeetCodePath/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/nadeemmallick/LeetCodePath/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/2390-removing-stars-from-a-string) |
