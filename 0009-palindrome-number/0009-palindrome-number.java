@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
+        
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
@@ -14,6 +14,6 @@ class Solution {
 
         // even digits OR odd digits (middle ignored)
         return x == reversedHalf || x == reversedHalf / 10;
+        
     }
 }
-    
