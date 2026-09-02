@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nadeemmallick/LeetCodePath/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
