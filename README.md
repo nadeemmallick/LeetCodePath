@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nadeemmallick/LeetCodePath/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/nadeemmallick/LeetCodePath/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/nadeemmallick/LeetCodePath/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nadeemmallick/LeetCodePath/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nadeemmallick/LeetCodePath/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/nadeemmallick/LeetCodePath/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1929-concatenation-of-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nadeemmallick/LeetCodePath/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/nadeemmallick/LeetCodePath/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/nadeemmallick/LeetCodePath/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/nadeemmallick/LeetCodePath/tree/master/0709-to-lower-case) |
