@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/nadeemmallick/LeetCodePath/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nadeemmallick/LeetCodePath/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/nadeemmallick/LeetCodePath/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nadeemmallick/LeetCodePath/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nadeemmallick/LeetCodePath/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
