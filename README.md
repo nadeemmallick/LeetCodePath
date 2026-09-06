@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nadeemmallick/LeetCodePath/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/nadeemmallick/LeetCodePath/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
