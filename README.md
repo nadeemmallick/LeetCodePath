@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nadeemmallick/LeetCodePath/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nadeemmallick/LeetCodePath/tree/master/3483-unique-3-digit-even-numbers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nadeemmallick/LeetCodePath/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0771-jewels-and-stones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nadeemmallick/LeetCodePath/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nadeemmallick/LeetCodePath/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/nadeemmallick/LeetCodePath/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
