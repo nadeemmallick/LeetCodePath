@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/nadeemmallick/LeetCodePath/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nadeemmallick/LeetCodePath/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/nadeemmallick/LeetCodePath/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
