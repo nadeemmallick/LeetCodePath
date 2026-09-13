@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nadeemmallick/LeetCodePath/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0940-distinct-subsequences-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/nadeemmallick/LeetCodePath/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/nadeemmallick/LeetCodePath/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/nadeemmallick/LeetCodePath/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/nadeemmallick/LeetCodePath/tree/master/1108-defanging-an-ip-address) |
