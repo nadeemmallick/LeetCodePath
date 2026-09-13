@@ -4,7 +4,7 @@ class Solution {
             return false;
         }
 
-        String str = new String(s + s);
+        String str = s + s;
 
         if (str.contains(goal)) {
             return true;
