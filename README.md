@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nadeemmallick/LeetCodePath/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nadeemmallick/LeetCodePath/tree/master/1552-magnetic-force-between-two-balls) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nadeemmallick/LeetCodePath/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nadeemmallick/LeetCodePath/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/nadeemmallick/LeetCodePath/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1929-concatenation-of-array) |
