@@ -12,31 +12,51 @@
 public class Solution {
     public ListNode detectCycle(ListNode head) {
         //Phase 1 cycle detect;
-        ListNode slow = head;
-        ListNode fast = head;
+        // ListNode slow = head;
+        // ListNode fast = head;
 
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
+        // while(fast != null && fast.next != null){
+        //     slow = slow.next;
+        //     fast = fast.next.next;
 
-            if(slow == fast){
-                break;
+        //     if(slow == fast){
+        //         break;
+        //     }
+        // }
+
+        // //cycle not present
+        // if(fast == null || fast.next== null){
+        //     return null;
+        // }
+
+        // slow = head;
+
+        // while(slow!=fast){
+        //     slow = slow.next;
+        //     fast = fast.next;
+        // }
+
+        // return slow;
+
+        HashSet<ListNode> visited = new HashSet<>();
+
+        ListNode curr = head;
+
+        while (curr != null) {
+
+            // Agar node pehle visit ho chuki hai
+            if (visited.contains(curr)) {
+                return curr;
             }
+
+            // First time visit
+            visited.add(curr);
+
+            curr = curr.next;
         }
 
-        //cycle not present
-        if(fast == null || fast.next== null){
-            return null;
-        }
+        // No cycle
+        return null;
 
-        slow = head;
-
-        while(slow!=fast){
-            slow = slow.next;
-            fast = fast.next;
-        }
-
-        return slow;
-        
     }
 }
