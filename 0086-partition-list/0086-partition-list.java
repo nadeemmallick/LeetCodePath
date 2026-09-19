@@ -10,40 +10,33 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        //we create to dummy list one lesser which store lesser value then x
-        //second dummy list store all greater and equal to node 
+        ListNode lessHead = new ListNode(-1);
+        ListNode lessTail = lessHead;
 
-        ListNode lesserH = new ListNode(-1);
-        ListNode lesserT = lesserH;
-
-        ListNode greaterH = new ListNode(-1);
-        ListNode greaterT = greaterH;
+        ListNode greatHead = new ListNode(-1);
+        ListNode greatTail = greatHead;
 
         ListNode temp = head;
 
         while (temp != null) {
             if (temp.val < x) {
-                //to hum ek insertnode baniye gai jo temp ke data ko store kare ga kyu aise le gai to temp humra lost ho jiye ga
-
-                ListNode InsertNode = temp;
+                ListNode InsertIn = temp;
                 temp = temp.next;
-                lesserT.next = InsertNode;
-                lesserT = InsertNode;
+                lessTail.next = InsertIn;
+                lessTail = InsertIn;
             } else {
-                ListNode InsertNode = temp;
+                ListNode Insertin = temp;
                 temp = temp.next;
-                greaterT.next = InsertNode;
-                greaterT = InsertNode;
-
+                greatTail.next = Insertin;
+                greatTail = Insertin;
             }
         }
 
-        //partition ka kam ho gya abb sab ko add krna hai to
-        lesserT.next = greaterH.next;
-        greaterT.next = null;
-        lesserH = lesserH.next;
+        lessTail.next = greatHead.next;
+        greatTail.next = null;
+        lessHead = lessHead.next;
 
-        return lesserH;
+        return lessHead;
 
     }
 }
