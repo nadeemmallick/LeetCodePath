@@ -1,30 +1,24 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int i = 0;
-        int j = 1;
-        int n = nums.length;
-         while(j<n){
-            if(nums[i] == nums[j]){
-                j++;
-            }
-            else{
-                i++;
-                nums[i] = nums[j];
-                j++;
-            }
-            
-         }
-         return i+1;
-    //     HashSet<Integer> uniqueset = new HashSet<>();
+        int left = 0;
+        int right = 1;
 
-    //     for (int num : nums) {
-    //         uniqueset.add(num);
-    //     }
-    //     int i = 0;
-    //     for (int num : uniqueset) {
-    //         nums[i++] = num;
-    //     }
-    //     return uniqueset.size();
-    // }
-}
+        while (right < nums.length) {
+
+            if (nums[left] == nums[right]) {
+                right++;
+
+            } else {
+
+                left++;
+                nums[left] = nums[right];
+                right++;
+
+            }
+
+        }
+
+        return left + 1;
+
+    }
 }
