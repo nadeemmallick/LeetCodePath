@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nadeemmallick/LeetCodePath/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/nadeemmallick/LeetCodePath/tree/master/1089-duplicate-zeros) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nadeemmallick/LeetCodePath/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nadeemmallick/LeetCodePath/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/nadeemmallick/LeetCodePath/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/nadeemmallick/LeetCodePath/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nadeemmallick/LeetCodePath/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
