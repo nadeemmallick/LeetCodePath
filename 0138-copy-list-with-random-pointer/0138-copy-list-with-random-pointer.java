@@ -15,29 +15,68 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head == null){
+        // if(head == null){
+        //     return null;
+        // }
+
+        // Map<Node, Node> map = new HashMap<>();
+
+        // Node curr = head;
+
+        // while(curr != null){
+        //     map.put(curr, new Node(curr.val));
+        //     curr= curr.next;
+        // }
+
+        // curr = head;
+        // while(curr != null){
+        //     Node copy = map.get(curr);
+        //     copy.next = map.get(curr.next);
+        //     copy.random = map.get(curr.random);
+
+        //     curr = curr.next;
+        // }
+
+        // return map.get(head);
+
+        if (head == null) {
             return null;
         }
 
-        Map<Node, Node> map = new HashMap<>();
-
-        Node curr = head;
-        
-        while(curr != null){
-            map.put(curr, new Node(curr.val));
-            curr= curr.next;
+        Node temp = head;
+        while (temp != null) {
+            Node cloneNode = new Node(temp.val);
+            cloneNode.next = temp.next;
+            temp.next = cloneNode;
+            temp = cloneNode.next;
         }
 
-        curr = head;
-        while(curr != null){
-            Node copy = map.get(curr);
-            copy.next = map.get(curr.next);
-            copy.random = map.get(curr.random);
+        temp = head;
+        while (temp != null) {
+            Node oldNode = temp;
+            Node newNode = temp.next;
 
-            curr = curr.next;
+            if (oldNode.random != null) {
+                newNode.random = oldNode.random.next;
+            }
+
+            temp = newNode.next;
         }
 
-        return map.get(head);
-        
+        temp = head;
+        Node ansListHead = head.next;
+
+        while (temp != null) {
+            Node oldNode = temp;
+            Node cloneNode = temp.next;
+
+            oldNode.next = cloneNode.next;
+            if (cloneNode.next != null) {
+                cloneNode.next = cloneNode.next.next;
+            }
+            temp = temp.next;
+        }
+        return ansListHead;
+
     }
 }
