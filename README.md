@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/nadeemmallick/LeetCodePath/tree/master/0605-can-place-flowers) |
