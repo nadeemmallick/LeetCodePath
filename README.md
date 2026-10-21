@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/nadeemmallick/LeetCodePath/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nadeemmallick/LeetCodePath/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0771-jewels-and-stones) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nadeemmallick/LeetCodePath/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nadeemmallick/LeetCodePath/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nadeemmallick/LeetCodePath/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nadeemmallick/LeetCodePath/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0509-fibonacci-number) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nadeemmallick/LeetCodePath/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nadeemmallick/LeetCodePath/tree/master/1552-magnetic-force-between-two-balls) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nadeemmallick/LeetCodePath/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/nadeemmallick/LeetCodePath/tree/master/0441-arranging-coins) |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nadeemmallick/LeetCodePath/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
