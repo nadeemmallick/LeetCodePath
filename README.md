@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nadeemmallick/LeetCodePath/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nadeemmallick/LeetCodePath/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/nadeemmallick/LeetCodePath/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nadeemmallick/LeetCodePath/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nadeemmallick/LeetCodePath/tree/master/0441-arranging-coins) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nadeemmallick/LeetCodePath/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/nadeemmallick/LeetCodePath/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nadeemmallick/LeetCodePath/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/nadeemmallick/LeetCodePath/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nadeemmallick/LeetCodePath/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nadeemmallick/LeetCodePath/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
