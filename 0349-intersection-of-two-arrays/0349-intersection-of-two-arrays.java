@@ -1,7 +1,7 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         HashSet<Integer> set = new HashSet<>();
-        ArrayList<Integer> result = new ArrayList<>();
+        HashSet<Integer> result = new HashSet<>();
 
 
         for(int nums : nums1){
@@ -12,13 +12,20 @@ class Solution {
         for(int nums : nums2){
             if(set.contains(nums)){
                 result.add(nums);
-                set.remove(nums);
+                
             }
         }
 
-       return result.stream()
-                     .mapToInt(Integer::intValue)
-                     .toArray();
+        int[] ans = new int[result.size()];
+        int i = 0;
+
+        for(int num : result){
+            ans[i] = num;
+            i++;
+        }
+
+        return ans;
+        
         
     }
 }
