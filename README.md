@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nadeemmallick/LeetCodePath/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0485-max-consecutive-ones) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nadeemmallick/LeetCodePath/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nadeemmallick/LeetCodePath/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0771-jewels-and-stones) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/nadeemmallick/LeetCodePath/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/nadeemmallick/LeetCodePath/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nadeemmallick/LeetCodePath/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nadeemmallick/LeetCodePath/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0977-squares-of-a-sorted-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nadeemmallick/LeetCodePath/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nadeemmallick/LeetCodePath/tree/master/1552-magnetic-force-between-two-balls) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nadeemmallick/LeetCodePath/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/nadeemmallick/LeetCodePath/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/nadeemmallick/LeetCodePath/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/nadeemmallick/LeetCodePath/tree/master/0493-reverse-pairs) |
