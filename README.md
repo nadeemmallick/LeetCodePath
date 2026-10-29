@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/nadeemmallick/LeetCodePath/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nadeemmallick/LeetCodePath/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nadeemmallick/LeetCodePath/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/nadeemmallick/LeetCodePath/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nadeemmallick/LeetCodePath/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/nadeemmallick/LeetCodePath/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/nadeemmallick/LeetCodePath/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nadeemmallick/LeetCodePath/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nadeemmallick/LeetCodePath/tree/master/0142-linked-list-cycle-ii) |
@@ -493,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nadeemmallick/LeetCodePath/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nadeemmallick/LeetCodePath/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
