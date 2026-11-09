@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/nadeemmallick/LeetCodePath/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1920-build-array-from-permutation](https://github.com/nadeemmallick/LeetCodePath/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nadeemmallick/LeetCodePath/tree/master/1929-concatenation-of-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nadeemmallick/LeetCodePath/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nadeemmallick/LeetCodePath/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nadeemmallick/LeetCodePath/tree/master/3483-unique-3-digit-even-numbers) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/nadeemmallick/LeetCodePath/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nadeemmallick/LeetCodePath/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nadeemmallick/LeetCodePath/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/nadeemmallick/LeetCodePath/tree/master/0771-jewels-and-stones) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nadeemmallick/LeetCodePath/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nadeemmallick/LeetCodePath/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nadeemmallick/LeetCodePath/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/nadeemmallick/LeetCodePath/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nadeemmallick/LeetCodePath/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nadeemmallick/LeetCodePath/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Number Theory
 |  |
 | ------- |
